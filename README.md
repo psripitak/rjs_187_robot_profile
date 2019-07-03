@@ -2,7 +2,6 @@
 Using React to make a page of profiles with ramdomized robots.
 
 To run the project:
-
-    Clone this repo
-    Run npm install
-    Run npm start
+- Clone this repo
+- Run ```npm install```
+- Run ```npm start```
